@@ -1,0 +1,5 @@
+[
+  { "type": "circle",    "radius": 5 },
+  { "type": "rectangle", "width": 3, "height": 4 },
+  { "type": "triangle",  "base": 6, "height": 2 }
+]
